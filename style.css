@@ -1,0 +1,70 @@
+.main-content{
+    font-family: sans-serif;
+    display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: left;
+  gap: 1em;
+  padding: 0.5em;
+  margin: 9em 0 0 0;
+}
+.selfContainer{
+  background-color: #faeb99;
+  padding: 1rem;
+  border-radius: 5%;
+  width: 270px;
+  margin: auto;
+  text-align:center;
+  gap: 1em;
+  }
+h3{
+      text-align: center;
+font-size: 16px;
+padding: 0em;
+margin: 1em 0em 0em 0em;
+}
+
+h1{
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    color: white;
+    background-color: #ebce2b;
+    padding: 1em 0 1em 0;
+    margin: 0 0 1em 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+.charContent{
+    font-size: 80%;
+padding: 0em;
+margin: 0.2em;
+display:inline-block;
+}
+
+.char-content{
+    font-family: sans-serif;
+text-align: center;
+}
+
+h2{
+    width: 100%;
+    color: #f3d008;
+    padding: 2em 0 0em 0;
+    margin: 0 0 1em 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.self{
+    margin: 1em 0 1em 0;
+    padding: 0 0 0 1em;
+    font-size: 80%;
+}
+.self tr td:first-child{
+text-align: left;
+}
+.self tr td{
+    text-align: left;
+    }
